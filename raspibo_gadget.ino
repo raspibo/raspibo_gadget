@@ -109,6 +109,6 @@ void displayString(char* s)
 void loop()
 {   
   //NOTE ALL CHAR IN LOWER CASE!!!
-  displayString("raspibo.org           ");
+  displayString(" raspibo.org ");
 }
 
